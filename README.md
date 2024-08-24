@@ -33,8 +33,8 @@ The "Car Rental Service" project is designed to streamline the entire car rental
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/car-rental-service.git
-   cd car-rental-service
+   git clone https://github.com/bilalilyasjhandir/Car-Rental-Service.git
+   cd Car-Rental-Service
    ```
 
 2. **Open the Solution:**
